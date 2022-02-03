@@ -57,7 +57,7 @@ const Baby = ({ baby }) => {
   const babySleepingEvents = async () => {
     if (currentBaby === null) return;
     const babyData = collection(db, 'users', user.uid, 'babies', path, 'sleepingEvents');
-    const babyQuery = query(babyData, orderBy('startTime', 'desc'), limit(10));
+    const babyQuery = query(babyData, orderBy('startTime', 'desc'), limit(3));
     const sleeps = await getDocs(babyQuery);
     const sortedSleeps = sleeps.docs.map(doc => ({
       id: doc.id,
@@ -76,7 +76,7 @@ const Baby = ({ baby }) => {
   const babyFeedingEvents = async () => {
     if (currentBaby === null) return;
     const babyData = collection(db, 'users', user.uid, 'babies', path, 'feedingEvents');
-    const babyQuery = query(babyData, orderBy('startTime', 'desc'), limit(10));
+    const babyQuery = query(babyData, orderBy('startTime', 'desc'), limit(3));
     const feeds = await getDocs(babyQuery);
     const sortedFeeds = feeds.docs.map(doc => ({ id: doc.id, ...doc.data() }));
     for (var i = 0; i < sortedFeeds.length; i++) {
