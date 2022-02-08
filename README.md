@@ -86,7 +86,7 @@ NEXT_PUBLIC_DISCOUNTS_API = FILL_YOUR_VALUE_HERE
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryneci)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ryneci)
 
-#### **Hatha Dam - Overview Software Development Engineer**
+#### **Hatha Dam - Software Development Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hathadam/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hathadam)
