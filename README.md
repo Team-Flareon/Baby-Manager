@@ -56,12 +56,12 @@ NEXT_PUBLIC_DISCOUNTS_API = FILL_YOUR_VALUE_HERE
 
 ## Our Developers
 
-#### **Edward Pak - Co Product Manager**
+#### **Edward Pak - Product Manager**
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edward-pak/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/freshpak)
 
-#### **Alissa Luk - Co Product Manager**
+#### **Alissa Luk - Product Manager**
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alissa-luk/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaluk)
