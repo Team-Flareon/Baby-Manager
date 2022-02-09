@@ -54,7 +54,7 @@ NEXT_PUBLIC_DISCOUNTS_API = FILL_YOUR_VALUE_HERE
 
    > `yarn dev`
 
-## Our Developers
+## Our Engineers
 
 #### **Edward Pak - Product Manager**
 
